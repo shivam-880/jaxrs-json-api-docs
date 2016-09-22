@@ -6,7 +6,7 @@ A Java library to generate API documentation in JSON format for JAX-RS annotated
 
 It currently is capable of parsing only limited JAX-RS annotations. Also, api documentation design is still under consideration.
 
----
+
 
 **Sample Input**
 
