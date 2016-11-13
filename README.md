@@ -3,13 +3,6 @@ A Java library to generate API documentation in JSON format for JAX-RS annotated
 
 --
 
-**This repo. is under active development.**
-
-It currently is capable of parsing only limited JAX-RS annotations. Also, api documentation design is still under consideration.
-
---
-
-
 **Sample Input**
 
 ``` java
@@ -42,3 +35,7 @@ public interface MessageResourceI {
     }]
 }
 ```
+
+<br/>
+
+> It currently is capable of parsing only limited JAX-RS annotations. Also, API documentation design is still under consideration.
